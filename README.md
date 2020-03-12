@@ -27,7 +27,7 @@ Elabore uma aplicação para um Quizz que possua as características abaixo:
 - 
 
 
-### Desafios extras (não obrigatório):
+## Desafios extras (não obrigatório):
 - Utilizar o [Django Rest Framework](https://www.django-rest-framework.org/)
 - Utilização de [Docker](https://www.docker.com/);
 - Banco de dados [PostGreSQL](https://www.postgresql.org/) ou [MySQL](https://www.mysql.com/);
