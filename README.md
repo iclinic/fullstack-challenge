@@ -15,22 +15,22 @@ Elabore uma aplicação para um Quizz que possua as características abaixo:
 - Enviar um link para um repositório com a solução;
 
 ### Back-end:
-    - Que o desafio seja feito em Python 3+;
-    - Uma API REST com Django;
-    - Um admin para gestão do conteúdo, podendo ser o nativo do próprio django;
-    - TDD;
-    - Princípios SOLID;
-    - 12Factor;
-    - PEP-8;
+- Que o desafio seja feito em Python 3+;
+- Uma API REST com Django;
+- Um admin para gestão do conteúdo, podendo ser o nativo do próprio django;
+- TDD;
+- Princípios SOLID;
+- 12Factor;
+- PEP-8;
 
 ### Front-end:
-    - 
+- 
 
 
 ### Desafios extra (não obrigatório):
-    - Utilizar o [Django Rest Framework](https://www.django-rest-framework.org/)
-    - Utilização de [Docker](https://www.docker.com/);
-    - Banco de dados [PostGreSQL](https://www.postgresql.org/) ou [MySQL](https://www.mysql.com/);
-    - Testes no backend com [pytest](https://docs.pytest.org/en/latest/);
-    - Integração com algum CI ([Travis](https://travis-ci.org/), [CircleCI](https://circleci.com/), etc);
-    - Deploy na nuvem ([AWS](https://aws.amazon.com/), [Heroku](https://www.heroku.com/), etc.)
+- Utilizar o [Django Rest Framework](https://www.django-rest-framework.org/)
+- Utilização de [Docker](https://www.docker.com/);
+- Banco de dados [PostGreSQL](https://www.postgresql.org/) ou [MySQL](https://www.mysql.com/);
+- Testes no backend com [pytest](https://docs.pytest.org/en/latest/);
+- Integração com algum CI ([Travis](https://travis-ci.org/), [CircleCI](https://circleci.com/), etc);
+- Deploy na nuvem ([AWS](https://aws.amazon.com/), [Heroku](https://www.heroku.com/), etc.)
