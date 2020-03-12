@@ -1,7 +1,7 @@
 ## Descrição
 Elabore uma aplicação para um Quizz que possua as características abaixo:
 - Permita a criação de um banco de perguntas;
-- Cada pergunta deve possuir N alternativas sendo apenas uma correta;
+- Cada pergunta deve possuir N alternativas sendo **apenas uma correta**;
 - Permita apenas uma resposta por usuário;
 - Exibição do percentual de acerto após o envio;
 
@@ -17,7 +17,7 @@ Elabore uma aplicação para um Quizz que possua as características abaixo:
 ### Back-end:
 - Que o desafio seja feito em Python 3+;
 - Uma API REST com Django;
-- Um admin para gestão do conteúdo, podendo ser o nativo do próprio django;
+- Um admin para gestão dos usuários, questões e suas alternativas, podendo ser o nativo do próprio django;
 - TDD;
 - Princípios SOLID;
 - 12Factor;
