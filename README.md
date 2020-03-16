@@ -24,7 +24,14 @@ Elabore uma aplicação para um Quizz que possua as características abaixo:
 - PEP-8;
 
 ### Front-end:
-- 
+
+Para o front, implemente uma interface que permita informar o nome do usuário, em seguida exiba a lista de perguntas e alternativas e mostre o resultado após repondê-las. Para isso é necessária a integração com os serviços do back-end.
+
+- Utilize alguma biblioteca para criar interfaces baseadas em componentes (React, Vue, etc.);
+- Pense que um time possa trabalhar nesse projeto, se atente à tudo que possa tornar o desenvolvimento mais ágil (lints, CI's, TDD, padrões de linguagem);
+- Atente-se para acessibilidade;
+- Faça uma interface simples de usar (Pode usar bibliotecas de UI);
+- (Extra) Typescript;
 
 
 ## Desafios extras (não obrigatório):
